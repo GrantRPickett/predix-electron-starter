@@ -1,0 +1,12 @@
+{
+    "uaaURL": "https://b323b223-9288-43a9-8da1-c8a188c06c75.predix-uaa-sysint.grc-apps.svc.ice.ge.com/oauth/token",
+    "timeseriesURL": "https://time-series-store-predix-sysint.svc.ice.ge.com/v1/datapoints",
+    "assetURL": "https://predix-asset-sysint.grc-apps.svc.ice.ge.com/engine/engine-tag-v1",
+    "ts_client": "sdlp-query-dev",
+    "ts_secret": "changeme",
+    "ts_zone": "2ed380f7-6cfa-4486-b7e2-2d57adda5475",
+    "tagname": "engine-tag-v1",
+    "asset_client": "sdlp-asset-client",
+    "asset_secret": "changeme",
+    "asset_zone": "97cfb794-a0d8-4c44-8a36-9f06b7144d11"
+}
